@@ -4,7 +4,7 @@ The MERN stack consists of MongoDB, Express, React / Redux, and Node.js. The MER
 
 Build a todo application that uses a RESTful API
 
-![alt](images/53.png)
+![alt](Assignment/images/53.png)
 
 **This guide demonstrates how to install a MERN stack on an Ubuntu 20.04 server using EC2**
 
